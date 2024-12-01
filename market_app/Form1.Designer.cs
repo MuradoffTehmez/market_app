@@ -135,6 +135,7 @@
             this.button9.TabIndex = 4;
             this.button9.Text = "Satışlar";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button8
             // 
@@ -412,6 +413,7 @@
             this.btn_sat.TabIndex = 7;
             this.btn_sat.Text = "sat";
             this.btn_sat.UseVisualStyleBackColor = true;
+            this.btn_sat.Click += new System.EventHandler(this.btn_sat_Click);
             // 
             // btn_sil
             // 
@@ -421,6 +423,7 @@
             this.btn_sil.TabIndex = 8;
             this.btn_sil.Text = "Sil";
             this.btn_sil.UseVisualStyleBackColor = true;
+            this.btn_sil.Click += new System.EventHandler(this.btn_sil_Click);
             // 
             // btn_iptal
             // 
@@ -430,6 +433,7 @@
             this.btn_iptal.TabIndex = 9;
             this.btn_iptal.Text = "ləğv et";
             this.btn_iptal.UseVisualStyleBackColor = true;
+            this.btn_iptal.Click += new System.EventHandler(this.btn_iptal_Click);
             // 
             // Frm_giris
             // 

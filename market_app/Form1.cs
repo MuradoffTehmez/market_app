@@ -148,5 +148,25 @@ namespace market_app
             }
             Can_ciyer.Close();
         }
+
+        private void btn_sil_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_iptal_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_sat_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
